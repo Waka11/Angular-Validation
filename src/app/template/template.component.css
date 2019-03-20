@@ -1,0 +1,9 @@
+form {
+  margin: 20px;
+  padding: 40px;
+  background-color: blueviolet !important;
+  border: 5px burlywood dashed;
+  border-radius: 15px;
+  color: azure;
+  font-weight: bolder;
+}
