@@ -1,0 +1,21 @@
+form {
+  margin: 20px;
+  padding: 40px;
+  background-color: darkslategrey !important;
+  border: 5px gold dashed;
+  border-radius: 15px;
+  color: azure;
+  font-weight: bolder;
+}
+.error{
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+    font-size: 20px;
+}
+input.ng-invalid.ng-touched{
+    border:3px solid maroon!important;
+}
+button:disabled{
+    cursor: not-allowed;
+}
